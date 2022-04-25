@@ -33,8 +33,8 @@ Analista de Hardware e Rede
 
 
 
-
+<details align="left">
   <summary><b>Credits</b></summary> 
   - Inspiração do Readme <a href="https://github.com/elidianaandrade">link</a> <br>
   - Imagem vetorial <a href="https://www.freepik.com/vectors/developer">Freepik</a>
-
+</details>
