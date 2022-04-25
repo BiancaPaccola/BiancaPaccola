@@ -1,6 +1,5 @@
 ### Sobre mim
 
-<!--
 Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Full Stack**.
 
 **Analista de Hardware e Rede**
@@ -13,4 +12,3 @@ Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-E7ECEB?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-E7ECEB?style=for-the-badge&logo=adobe-photoshop)
 
--->
