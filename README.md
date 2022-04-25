@@ -35,6 +35,6 @@ Analista de Hardware e Rede
 
 
   <summary><b>Credits</b></summary> 
-  - Elidiana Andrade <a href="https://github.com/elidianaandrade">Link</a> <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">Link</a>
+  - Elidiana Andrade <a href="https://github.com/elidianaandrade">link</a> <br>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">Freepik</a>
 
