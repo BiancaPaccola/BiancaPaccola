@@ -4,8 +4,12 @@ Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Ful
 
 **Analista de Hardware e Rede**
 
+
+
 **Studyng**
-[![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
 
 Ferramentas
 ![Git](https://img.shields.io/badge/Git-E7ECEB?style=for-the-badge&logo=git)
