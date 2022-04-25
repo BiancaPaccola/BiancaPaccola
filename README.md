@@ -1,7 +1,7 @@
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="400" src="https://img.freepik.com/vetores-gratis/ilustracao-do-conceito-abstrato-da-equipe-de-desenvolvimento-de-software-trabalho-em-equipe-remoto-equipe-digital-sob-demanda-profissional-desenvolvedor-de-software-certificado-contratacao-de-empresa-terceirizada_335657-932.jpg?t=st=1650895510~exp=1650896110~hmac=4e920815ac4d38479b7851d46aca25b080906a22a49b2d39d93719951e55e797&w=740">
 
-###Sobre mim
+### Sobre mim
 
 Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Full Stack**.
 <br>
