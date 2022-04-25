@@ -29,3 +29,9 @@ Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Ful
 **Cursado:** 
 Analista de Hardware e Rede
 
+
+
+  <summary><b>Credits</b></summary> 
+  - Elidiana Andrade <a href="https://github.com/elidianaandrade">
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a>
+
