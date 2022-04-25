@@ -5,6 +5,8 @@
 
 Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Full Stack**.
 <br>
+
+
 **Estudando**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
