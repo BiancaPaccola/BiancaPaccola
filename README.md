@@ -30,7 +30,6 @@ Analista de Hardware e Rede
 
 <details align="left">
   <summary><b>Credits</b></summary> 
-   - Imagem vetorial <a href="https://www.freepik.com/vectors/developer"> Freepik</a><br>
   - Badges<a href="https://dev.to/envoy_/150-badges-for-github-pnk"> Vedant Chainani</a><br>
   - Badges<a href="https://shields.io/"> Shields IO<a/><br>
    - Inspiração<a href="https://github.com/elidianaandrade"> Elidiana Andrade</a>
