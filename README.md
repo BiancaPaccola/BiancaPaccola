@@ -11,17 +11,19 @@ Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Ful
 
 ### Estudando ###
 
-![JavaScript](https://img.shields.io/badge/JavaScript-D5F7E6?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-D5F7E6?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-D5F7E6?style=for-the-badge&logo=css3&logoColor=00BFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
 ### Ferramentas ###
 
-![Git](https://img.shields.io/badge/Git-E7ECEB?style=for-the-badge&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-E7ECEB?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-E7ECEB?style=for-the-badge&logo=adobe-photoshop)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Gimp](	https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 **Cursado:**
