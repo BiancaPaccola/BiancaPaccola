@@ -37,3 +37,5 @@ Analista de Hardware e Rede
   - Badges<a href="https://shields.io/"> Shields IO<a/><br>
    - Inspiração<a href="https://github.com/elidianaandrade"> Elidiana Andrade</a>
 </details>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-BiancaPaccola&color=green)
