@@ -25,6 +25,7 @@ Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Ful
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Gimp](	https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ![Figma](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -35,8 +36,7 @@ Analista de Hardware e Rede
 
 <details align="left">
   <summary><b>Credits</b></summary> 
-  - Badges<a href="https://dev.to/envoy_/150-badges-for-github-pnk"> Vedant Chainani</a><br>
-  - Badges<a href="https://shields.io/"> Shields IO<a/><br>
+  - Badges<a href="https://github.com/iuricode/README-template/blob/main/badges/badges.md"> Repositório</a><br>
    - Inspiração<a href="https://github.com/elidianaandrade"> Elidiana Andrade</a>
 </details>
 
