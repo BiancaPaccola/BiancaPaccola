@@ -1,25 +1,28 @@
+![github-header-image (1)](https://user-images.githubusercontent.com/102427205/184019498-56d0faed-26e3-474f-887c-579ca18f6472.png)
+
+
 
 <img align="right" alt="galaxy-photo" height="400" src="https://user-images.githubusercontent.com/102427205/169156868-69c872c6-d979-4ce2-a08e-1eac1b18fac9.jpg">
 
-## Sobre mim
+## About me...
 
-Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Full Stack**.
+**Hello, World!** My name is **Bianca** and I am a Web Development student.
 
 <a href="https://instagram.com/biancapaccola" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianca-paccola-34a47b164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:bianca.paccola@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-### Estudando ###
+### Studying... ###
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Hard Skilss ###
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
-### Ferramentas que uso ###
+### Tools ###
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -30,8 +33,9 @@ Olá, meu nome é **Bianca Paccola**! Sou estudante de desenvolvimento **Web Ful
 ![windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 
-**Cursado:**
-Analista de Hardware e Rede
+**Certificações:**
+- Analista de Hardware e Rede
+- Técnico em Serviços Jurídicos
 ##
 
 <details align="left">
