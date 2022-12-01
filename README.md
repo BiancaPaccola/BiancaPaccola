@@ -33,9 +33,6 @@ My study repository: https://github.com/future4code/barros-Bianca-Paccola
 ![windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
 
-**Certificações:**
-- Analista de Hardware e Rede
-- Técnico em Serviços Jurídicos
 ##
 
 <details align="left">
