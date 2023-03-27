@@ -31,6 +31,11 @@ Repositório dos estudos no meu bootcamp: https://github.com/future4code/barros-
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
+### Aprendendo... ###
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### Ferramentas ###
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
