@@ -1,3 +1,7 @@
+![banner - Copia](https://user-images.githubusercontent.com/102427205/228965247-483334e5-4b67-4c89-a150-05969cc23514.png)
+
+
+
 ## Sobre mim...
 
 Ola, seja bem vindo(a)! 👋
