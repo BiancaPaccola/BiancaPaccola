@@ -1,22 +1,21 @@
-![github-header-image (1)](https://user-images.githubusercontent.com/102427205/184019498-56d0faed-26e3-474f-887c-579ca18f6472.png)
-
-
-
-<img align="right" alt="galaxy-photo" height="400" src="https://user-images.githubusercontent.com/102427205/169156868-69c872c6-d979-4ce2-a08e-1eac1b18fac9.jpg">
-
 ## Sobre mim...
 
-Desenvolvedora Web Full Stack em formação.
+Ola, seja bem vindo(a)! 👋
+
+Me chamdo Bianca, tenho 32 anos e sou Desenvolvedora Web Full Stack em formação.<br>
+Em 2022 iniciei meus estudos na área através de um bootcamp onde tive a oportunidade de desenvolver projetos individuais e em grupo.
 
 Repositório dos estudos no meu bootcamp: https://github.com/future4code/barros-Bianca-Paccola
 
-### Contate-me ###
+Atualmente, ingressei na graduação em Tecnólogo de Sistemas para Internet, para consolidar ainda mais meu aprendizado e poder ir em busca de uma futura transição de carreia.
+
+### 📩 Contate-me ###
 
 <a href="https://www.linkedin.com/in/bianca-paccola-34a47b164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:bianca.paccola@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-### Tecnologias que utilizo ###
+### 💻 Tecnologias que utilizo ###
 ### Font-end:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +35,7 @@ Repositório dos estudos no meu bootcamp: https://github.com/future4code/barros-
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Ferramentas ###
+### ⚙️ Ferramentas ###
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
