@@ -6,7 +6,7 @@
 
 Ola, seja bem vindo(a)! 👋
 
-Me chamdo Bianca, tenho 32 anos e sou Desenvolvedora Web Full Stack em formação.<br>
+Me chamdo Bianca, tenho 33 anos e sou Desenvolvedora Web Full Stack em formação.<br>
 Em 2022 iniciei meus estudos na área através de um bootcamp onde tive a oportunidade de desenvolver projetos individuais e em grupo.
 
 Repositório dos estudos no meu bootcamp: https://github.com/future4code/barros-Bianca-Paccola
